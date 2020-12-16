@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/formwithvalidation.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/formwithvalidation.git/static/js/main.65cdf3a5.chunk.js",
+    "main.js.map": "/formwithvalidation.git/static/js/main.65cdf3a5.chunk.js.map",
+    "runtime-main.js": "/formwithvalidation.git/static/js/runtime-main.3bab7740.js",
+    "runtime-main.js.map": "/formwithvalidation.git/static/js/runtime-main.3bab7740.js.map",
+    "static/css/2.95f25948.chunk.css": "/formwithvalidation.git/static/css/2.95f25948.chunk.css",
+    "static/js/2.754c0790.chunk.js": "/formwithvalidation.git/static/js/2.754c0790.chunk.js",
+    "static/js/2.754c0790.chunk.js.map": "/formwithvalidation.git/static/js/2.754c0790.chunk.js.map",
+    "static/js/3.c5a2a582.chunk.js": "/formwithvalidation.git/static/js/3.c5a2a582.chunk.js",
+    "static/js/3.c5a2a582.chunk.js.map": "/formwithvalidation.git/static/js/3.c5a2a582.chunk.js.map",
+    "index.html": "/formwithvalidation.git/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/formwithvalidation.git/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/formwithvalidation.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.754c0790.chunk.js.LICENSE.txt": "/formwithvalidation.git/static/js/2.754c0790.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/formwithvalidation.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bab7740.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.754c0790.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.65cdf3a5.chunk.js"
+  ]
+}
